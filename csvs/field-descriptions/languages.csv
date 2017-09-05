@@ -1,0 +1,5 @@
+"Field Name ","Description"
+"id","A unique identifier for the language."
+"language:(name)","The name of the language."
+"proficiency:(level)","One of the following values, representing the member's proficiency in the language:    elementary limited-working professional-working full-professional native-or-bilingual   These values are meant to be used programmatically, as identifiers.  See 'proficiency:(name)' for a displayable version.  "
+"proficiency:(name)","One of the following descriptive values, representing the member's proficiency in the language:    Elementary proficiency Limited working proficiency Professional working proficiency Full professional proficiency Native or bilingual proficiency  "

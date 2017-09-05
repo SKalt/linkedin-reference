@@ -1,0 +1,24 @@
+Field Name ,Description
+last-modified-timestamp,The timestamp, in milliseconds, when the member's profile was last edited.
+proposal-comments,A short-form text area describing how the member approaches proposals.
+associations,A short-form text area listing the various associations the member is a part of.
+interests,A short-form text area describing the member's interests.
+publications,An object representing the various publications associated with the member.  See Publication Fields for a description of the fields available within this object. 
+patents,An object representing the various patents associated with the member.  See Patent Fields for a description of the fields available within this object.
+languages,An object representing the languages that the member knows.  See Language Fields for a description of the fields available within this object.
+skills,An object representing the skills that the member holds.  See Skill Fields for a description of the fields available within this object.
+certifications,An object representing the certifications that the member holds.  See Certification Fields for a description of the fields available within this object.
+educations,An object representing the user's educational background.  See Education Fields for a description of the fields available within this object.
+courses,An object representing courses the member has taken.  See Course Fields for a description of the fields available within this object.
+volunteer,An object representing the member's volunteer experience.  See Volunteer Fields for a description of the fields available within this object.
+three-current-positions,A collection of current positions that the member holds, capped at three.  See Position Fields for a description of the fields available within this object.
+three-past-positions,A collection of the most recent past positions that the member held, capped at three.  See Position Fields for a description of the fields available within this object.
+num-recommenders,The number of recommendations that the member has.
+recommendations-received,An object representing the recommendations that the member has received.  See Recommendation Fields for a description of the fields available within this object.
+following,An collection of people, company and industries that the member is following.
+job-bookmarks,A collection of jobs that the member is following.
+suggestions,A collection of people, companies and industries suggested for the member to follow.
+date-of-birth,The member's date of birth.  This field may not return the year as part of the date, if the member has not provided it.
+member-url-resources,An object representing the URLs the member has shared on their LinkedIn profile.
+related-profile-views,An object listing related member profiles that were viewed before or after the member''s profile.
+honors-awards,An object representing the various honors and awards the member has received.

@@ -1,0 +1,7 @@
+"Field Name ","Description"
+"phone-numbers","A collection of phone number objects.  See phone numbers for a description of the fields available within this object. "
+"bound-account-types","A collection of accounts bound by the member.  See bound accounts for a description of the fields available within this object. "
+"im-accounts","A collection of instant messenger accounts associated with the member.   See IM accounts for a description of the fields available within this object.  "
+"main-address","The member's primary address.  We do not specify whether this is a work, home or other address. "
+"twitter-accounts","A collection of Twitter accounts associated with the member.  See Twitter accounts for a description of the fields available within this object. "
+"primary-twitter-account","The primary Twitter account associated with the member.   See Primary Twitter account for a description of the fields available within this object.  "

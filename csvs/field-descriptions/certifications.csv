@@ -1,0 +1,7 @@
+"Field Name ","Description"
+"id","A unique identifier for the certification. "
+"name","The name of the certification. "
+"authority:(name)","The name of the certification's issuing body. "
+"number","The license number for this certification. "
+"start-date","A date object that optionally contains the 'day', 'month' and 'year' that the certification began. "
+"end-date","A date object that optionally contains the 'day', 'month' and 'year' that the certification ended. "

@@ -1,0 +1,3 @@
+"Field Name","Description"
+"location:(name)","A generic name representing the location of the member.  This is a pseudo-curated list generated from user input, and as such, there is no API call or static reference page that will list all possible for this field.  e.g. ""San Francisco Bay Area"" "
+"location:(country:(code))","The lower-case ISO 3166-1 alpha-2 standard country code representing the member's current country. "

@@ -1,0 +1,4 @@
+"Field Name ","Description"
+"id","A unique identifier for the course. "
+"name","The name of the course."
+"number","The number of the course."

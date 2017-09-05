@@ -1,0 +1,3 @@
+"Field Name ","Description"
+"id","A unique identifier for the skill. "
+"skill:(name)","The name of the skill. "

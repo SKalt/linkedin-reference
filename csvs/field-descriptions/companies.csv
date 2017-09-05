@@ -1,0 +1,6 @@
+"Field Name ","Description"
+"id","A unique identifier for the company. "
+"name","The name of the company. "
+"type","One of the following possible values:  public or private. "
+"industry","The industry in which the company operates.  See industry codes for a list of possible values. "
+"ticker","The stock market ticker symbol for the company.  This field will be empty for companies that are not publicly traded."

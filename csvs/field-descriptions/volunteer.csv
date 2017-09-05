@@ -1,0 +1,8 @@
+"Field Name ","Sub-Field Name","Description"
+"volunteer-experiences"," ","The volunteering experiences of the member in a list."
+" ","id","A uniqiue identifier for this volunteer entry."
+" ","organization:(id)","The organization ID."
+" ","organization:(name)","The organization name."
+" ","role","A textual description of the role the member performed as a volunteer. "
+"causes:(name)"," ","A string describing the cause or reason they chose to volunteer. "
+"opportunities"," ","The volunteering opportunities."

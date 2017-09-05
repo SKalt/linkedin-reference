@@ -1,0 +1,5 @@
+"Field Name ","Description"
+"id","A unique identifier for this recommendation. "
+"recommendation-type","A value that indicates the type of recommendation that was chosen by the person providing the recommendation. "
+"recommendation-text","The summary of the recommendation. "
+"recommender","An object representing the person that made the recommendation. "

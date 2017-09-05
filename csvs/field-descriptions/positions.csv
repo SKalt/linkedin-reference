@@ -1,0 +1,8 @@
+"Field Name ","Description"
+"id","A unique identifier for the member's position. "
+"title","The title of the position."
+"summary","A summary of the position. "
+"start-date","A date object, containing the 'month' and 'year', indicating when the position began. "
+"end-date","A date object, containing 'month' and 'year', indicating when the position ended. "
+"is-current","A boolean value indicating whether the member is current in this position. "
+"company","An object describing the company this position belongs to.  See Company fields for a description of the fields available within this object. "

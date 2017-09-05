@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-fields",
+  "version": "1.0.0",
+  "description": "the info at https://developer.linkedin.com/docs/fields and https://developer.linkedin.com/docs/reference as JSON and CSV files to help with development of linkedin applications.",
+  "main": "csvify.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Linkedin",
+    "fields",
+    "codes",
+    "reference",
+    "docs"
+  ],
+  "author": "Steven Kalt",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "json2csv": "^3.11.1",
+    "mocha": "^3.5.0"
+  }
+}
